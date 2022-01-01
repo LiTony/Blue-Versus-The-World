@@ -1,0 +1,88 @@
+atlantis images_64/atlantis0.bmp 255 255 255 0
+atlantis images_64/atlantis1.bmp
+atlantis images_64/atlantis2.bmp
+atlantis images_64/atlantis3.bmp
+atlantis images_64/atlantis4.bmp
+atlantis images_64/atlantis5.bmp
+atlantis images_64/atlantis6.bmp
+crab images_64/crabout01.bmp 255 255 255 128
+crab images_64/crabout02.bmp 255 255 255 128
+crab images_64/crabout03.bmp 255 255 255 128
+crab images_64/crabout04.bmp 255 255 255 128
+crab images_64/crabout05.bmp 255 255 255 128
+crab images_64/crabout06.bmp 255 255 255 128
+crab images_64/crabout07.bmp 255 255 255 128
+crab images_64/crabout08.bmp 255 255 255 128
+crab images_64/crabout09.bmp 255 255 255 128
+crab images_64/crabout10.bmp 255 255 255 128
+crab images_64/crabout11.bmp 255 255 255 128
+crab images_64/crabout11.bmp 255 255 255 128
+sea images_64/sea.bmp 255 255 255 0
+octo images_64/s1.bmp 255 255 255 0
+octo images_64/s2.bmp 255 255 255 0
+octo images_64/s3.bmp 255 255 255 0
+octo images_64/s4.bmp 255 255 255 0
+octo images_64/s5.bmp 255 255 255 0
+obstacle images_64/rock.bmp
+fish images_64/fish.bmp 255 255 255 0
+quake images_64/quake1.bmp 255 255 255 0
+quake images_64/quake2.bmp 255 255 255 0
+quake images_64/quake3.bmp 255 255 255 0
+quake images_64/quake4.bmp 255 255 255 0
+quake images_64/quake5.bmp 255 255 255 0
+quake images_64/quake6.bmp 255 255 255 0
+bubbles images_64/bubbles.bmp
+seaGrass images_64/Seaweed1.bmp 255 255 255 0
+road_black_yellow images_64/road_black_yellow.bmp
+road_black_yellow_top_left images_64/top_left_road.bmp
+arrow images_64/arrow_horizontal.bmp
+red images_64/red.bmp
+background_default images_64/grass_0.bmp
+castle images_64/castle.bmp
+swordsman images_64/swordsman32.bmp
+bluegirl images_64/64bit/frame064bit_transp.bmp
+bluegirl images_64/64bit/frame164bit_transp.bmp
+bluegirl images_64/64bit/frame264bit_transp.bmp
+bluegirl images_64/64bit/frame364bit_transp.bmp
+bluegirl images_64/64bit/frame464bit_transp.bmp
+bluegirl images_64/64bit/frame564bit_transp.bmp
+bluegirl images_64/64bit/frame664bit_transp.bmp
+bluegirl images_64/64bit/frame764bit_transp.bmp
+dagger images_64/dagger.bmp
+dagger0 images_64/dagger.bmp
+dagger1 images_64/dagger_left.bmp
+dagger2 images_64/dagger_down.bmp
+dagger3 images_64/dagger_up.bmp
+mushroom images_64/mushroomframe0.bmp
+mushroom images_64/mushroomframe1.bmp
+mushroom images_64/mushroomframe2.bmp
+mushroomSpawner images_64/mushportal.bmp
+fireball images_64/sun_small.bmp
+vertdirt images_64/dirtpathvert.bmp
+horizdirt images_64/dirtpathhoriz.bmp
+right_t_dirt_intersect images_64/dirtpathright_t_intersect.bmp
+water_texture images_64/water_texture.bmp
+boat images_64/boatymcboat.bmp
+dock images_64/dock.bmp
+dock_horiz images_64/dock_horiz.bmp
+edge_sand images_64/edge_sand.bmp
+seashell_sand images_64/seashell_sand.bmp
+seashell_sand_edge images_64/seashell_sand_edge.bmp
+seashell_sand_edge2 images_64/seashell_sand_edge2.bmp
+no_seashell_sand images_64/no_seashell_sand.bmp
+no_seashell_sand2 images_64/no_seashell_sand2.bmp
+no_seashell_sand3 images_64/no_seashell_sand3.bmp
+no_seashell_sand4 images_64/no_seashell_sand4.bmp
+no_seashell_sand5 images_64/no_seashell_sand5.bmp
+bridge images_64/bridge.bmp
+tree images_64/tree.bmp
+grass images_64/grass_0.bmp
+lava2 images_64/lava2.bmp
+enemy images_64/enemy.bmp
+enemy images_64/enemy2.bmp
+mushroom_lock images_64/locked.bmp
+zombie_mushroom images_64/zombie_frame_1.bmp
+zombie_mushroom images_64/zombie_frame_2.bmp
+zombie_mushroom images_64/zombie_frame_3.bmp
+zombie_mushroom images_64/zombie_frame_4.bmp
+treasure images_64/treasure.bmp
