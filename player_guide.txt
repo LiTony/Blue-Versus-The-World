@@ -1,0 +1,13 @@
+Hello player!
+
+Thanks for checking out my game.
+
+The controls for the game are as follows:
+
+Spacebar to use weapon [fireball or dagger]
+WASD to move the character NORTH / WEST / SOUTH / EAST
+and Left Mouse Click to use Special Ability [CAREFUL ONLY ONE TIME USE FOR SUPER POWER]
+
+That should be about it, I hope you find the secret feature in the game :]
+
+Enjoy. -TL
